@@ -47,9 +47,9 @@
     background-color: lightslategrey;
     border-style: solid;
     border-color: black;
+    border: 1px;
     height: 270px;
     width: 90%;
-    border: 1px;
     margin-top: 20px;
     margin-left: 20px;
     float: left;
@@ -65,7 +65,7 @@
     width: 150px;
     margin-top: -3px;
     margin-right: -3px;
-    border-style: outset solid;
+    border-style: solid;
     border-color: black;
 }
 
