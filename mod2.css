@@ -12,6 +12,7 @@
 #first_box .Container {
     background-color: lightslategrey;
     border-style: solid;
+    border: 1px;
     border-color: black;
     height: 270px;
     width: 90%;
@@ -48,6 +49,7 @@
     border-color: black;
     height: 270px;
     width: 90%;
+    border: 1px;
     margin-top: 20px;
     margin-left: 20px;
     float: left;
@@ -83,6 +85,7 @@
     height: 270px;
     width: 90%;
     margin-left: 20px;
+    border: 1px;
     margin-top: 20px;
     float: left;
 }
